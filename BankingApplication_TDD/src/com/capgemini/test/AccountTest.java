@@ -1,4 +1,5 @@
 //comment by sanjay
+//second line comment
 package com.capgemini.test;
 
 import static org.junit.Assert.*;
